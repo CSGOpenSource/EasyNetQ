@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LibraryManifest ModuleName="EasyNetQ" ModuleVersion="14.4">
+  
+  <Module Name="RabbitMQ" Version="14.4.0.0.0.*" />
+  <Module Name="Newtonsoft" Version="14.4.0.0.0.*" />
+  
+</LibraryManifest>
